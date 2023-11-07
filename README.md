@@ -58,5 +58,3 @@ For further information, please refer to our Privacy Policy and Terms of Use.
 Thank you for considering this app! We look forward to enhancing the dining and shopping experience for our school community.
 
 ---
-
-**Disclaimer:** This README is a conceptual document and not representative of a real application. It serves as a template for you to expand upon and adapt to your specific project.
